@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5dad9c217cea0d30e47779eb"},"nombre":"Camisa VueJs","precio":50,"imagen":"X1o2nyPc.jpeg","__v":0}
+{"_id":{"$oid":"5dad9c447cea0d30e47779ed"},"nombre":"Camisa ReactJs","precio":30,"imagen":"MQxy9zod.jpeg","__v":0}
+{"_id":{"$oid":"5db1d61cb2df202adc394605"},"nombre":"Camisa SASS","precio":30,"imagen":"LHKSs0UZ.jpeg","__v":0}
+{"_id":{"$oid":"5db1d6e4b2df202adc394606"},"nombre":"Camisa HTML5","precio":25,"imagen":"YqDBAvxz.jpeg","__v":0}
+{"_id":{"$oid":"5db1d87db2df202adc394607"},"nombre":"Camiseta Git HUb","precio":35,"imagen":"B5Mavf8k.jpeg","__v":0}
+{"_id":{"$oid":"5db1f0c6325dcc46806d8bb1"},"nombre":"Camisa NodeJs","precio":25,"imagen":"pZKLIWAf.jpeg","__v":0}

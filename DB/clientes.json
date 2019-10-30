@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5dad850cfd4c7a26a84f4b84"},"nombre":"Juan","apellido":"Fernández","email":"correo@correo.com","telefono":"123456654","empresa":"La mía","__v":0}
+{"_id":{"$oid":"5dad85c0fd4c7a26a84f4b85"},"nombre":"Eva","apellido":"Natalia","email":"correo2@correo.com","telefono":"123456","empresa":"Facebook","__v":0}
+{"_id":{"$oid":"5dad860afd4c7a26a84f4b86"},"nombre":"Iván","apellido":"Fernández","email":"correo3@correo.com","telefono":"123456","empresa":"Universidad de Biología","__v":0}
+{"_id":{"$oid":"5db01e77d2185a27709a59d5"},"nombre":"Natalia","apellido":"Fernández","empresa":"Renge","email":"correo6@correo.com","telefono":"123456","__v":0}
+{"_id":{"$oid":"5db022509f2796360847277b"},"nombre":"Pepe","apellido":"Pepito","empresa":"Pepe Pepito","email":"pepito@pepito.com","telefono":"123456","__v":0}
+{"_id":{"$oid":"5db025bd9f27963608472780"},"nombre":"Ildefonso","apellido":"Fernández","empresa":"La suya","email":"ilde@ilde.com","telefono":"123546","__v":0}
